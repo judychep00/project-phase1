@@ -1,14 +1,19 @@
 # project-phase1
 TITTLE: DETERMINING THE LOWEST-RISK AIRCRAFT FOR NEW BUSINESS VENTURES
+
 Objective:Identify High-Risk and Low-Risk Aircraft Categories
           Understand Key Factors Contributing to Aircraft Accidents
           Provide Data-Driven Recommendations for Business Investment
+          
 Project Overview:
 This project analyzes historical aircraft accident data to determine which aircraft types pose the lowest investment risk. 
 By leveraging data analysis techniques, we aim to provide actionable insights for businesses looking to invest in aviation.
+
 Project Files:
+
 Data Sources: Aviation Data
               USState_code
+              
 Tools & Technologies Used: Python (Pandas, NumPy, Matplotlib, Seaborn)
                            Jupyter Notebook for data analysis and visualization
                            PowerPoint for summarizing key findings
