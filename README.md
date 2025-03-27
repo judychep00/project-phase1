@@ -75,6 +75,7 @@ How to Use This Repository: View the PowerPoint for a summary of findings.
                             View the PowerPoint for a high-level summary of findings.
 
 Read the Jupyter Notebook PDF for detailed analysis.
+![fatal_injuries_by_aircraft_model](https://github.com/user-attachments/assets/7e8c8837-97fe-4440-bd40-c398d089b518)
 
 Clone this repository if you want to explore the data further.
 Contributors:JUDY CHEPKEMOI
