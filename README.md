@@ -78,6 +78,8 @@ Read the Jupyter Notebook PDF for detailed analysis.
 ![fatal_injuries_by_aircraft_model](https://github.com/user-attachments/assets/7e8c8837-97fe-4440-bd40-c398d089b518)
 "C:\Users\USER\accident_by_purpose_model.png"
 "C:\Users\USER\fatal_injuries_by_aircraft_model.png"
+![fatal_injuries_by_aircraft_model](https://github.com/user-attachments/assets/3d47b456-fbb7-46bb-9efa-ae38a4d391b3)
+
 
 Clone this repository if you want to explore the data further.
 Contributors:JUDY CHEPKEMOI
